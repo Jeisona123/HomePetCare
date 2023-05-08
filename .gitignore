@@ -1,1 +1,8 @@
-"* .pdf"
+*.pdf
+*pdf
+!abc.pdf
+.pdf
+abc.pdf
+funny/pdf/abc.pdf
+pdf/.pdf
+pdf/abc.pdf
